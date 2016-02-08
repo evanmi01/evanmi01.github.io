@@ -1,17 +1,18 @@
 body{
 	background-color: #B9DAE6;
-	font-family: Helvetica;
-
+	font-family: Georgia;
+	margin-top: 5%;
+	margin-bottom: 10%;
 }
 h1{
 	border-style: ridge;
-    border-width: 7px;
+	border-width: 7px;
 	text-align: center;
 	margin-left: 20%;
 	margin-right: 20%;
 }
 
 p{
-	margin-right: 20%;
-	margin-left: 20%;
+	margin-right: 10%;
+	margin-left: 10%;
 }

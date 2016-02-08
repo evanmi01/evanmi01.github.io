@@ -1,9 +1,11 @@
 body{
 	background-color: #B9DAE6;
-	font-family: Helvetica;
+	font-family: Georgia;
+	margin-top: 5%;
+	margin-bottom: 10%;
 
 }
-h1{ asdf;laksdjf;lkasjdfl;kasjdf;lkasj; and h3
+.top{
 	border-style: ridge;
     border-width: 7px;
 	text-align: center;
@@ -13,8 +15,12 @@ h1{ asdf;laksdjf;lkasjdfl;kasjdf;lkasj; and h3
 
 p{
 	margin-right: 20%;
-	margin-left: 20%;
+	margin-left: 5%;
 }
 .indent{
-	margin-left:30%;
+	margin-left:10%;
+}
+
+.important-message {
+   font-weight: bold;
 }
